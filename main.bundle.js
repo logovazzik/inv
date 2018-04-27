@@ -914,7 +914,7 @@ var BalanceService = /** @class */ (function () {
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return API_URLS; });
 var DATE_FORMAT = 'dd.MM.yy hh:mm';
 var DECIMAL_FORMAT = '1.1-8';
-var ENDPOINT_ENTRY = 'http://invetfundapi.azurewebsites.net';
+var ENDPOINT_ENTRY = 'https://invetfundapi.azurewebsites.net';
 var CURRENCY_IMAGE_URL_16 = './assets/currencies/16x16/{currencyName}.png';
 var CURRENCY_IMAGE_URL_128 = './assets/currencies/128x128/{currencyName}.png';
 var SERVER_ERROR_MESSAGE = 'Сервер временнно недоступен. Повторите попытку позже';
